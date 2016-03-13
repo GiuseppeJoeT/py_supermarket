@@ -23,6 +23,6 @@ print ('')
 sentence = "Coding is fun!"
 
 for letter in sentence:
-     # Only print out the letter i
-     if letter == "i":
-         print letter
+    # Only print out the letter i
+    if letter == "i":
+        print letter
